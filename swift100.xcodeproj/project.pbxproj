@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E45EC3792CFF20EB00B6FD34 /* SwiftDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45EC3782CFF20EB00B6FD34 /* SwiftDataView.swift */; };
 		E463A0CE2CFF1DA500744481 /* swift100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E463A0CD2CFF1DA500744481 /* swift100App.swift */; };
 		E463A0D02CFF1DA500744481 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E463A0CF2CFF1DA500744481 /* ContentView.swift */; };
 		E463A0D22CFF1DA600744481 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E463A0D12CFF1DA600744481 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E45EC3782CFF20EB00B6FD34 /* SwiftDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataView.swift; sourceTree = "<group>"; };
 		E463A0CA2CFF1DA500744481 /* swift100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swift100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E463A0CD2CFF1DA500744481 /* swift100App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift100App.swift; sourceTree = "<group>"; };
 		E463A0CF2CFF1DA500744481 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				E463A0DC2CFF1DC500744481 /* CustomComponentBindingView.swift */,
 				E463A0DE2CFF1E9B00744481 /* MultilineTextInputView.swift */,
+				E45EC3782CFF20EB00B6FD34 /* SwiftDataView.swift */,
 			);
 			path = "day-53";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E45EC3792CFF20EB00B6FD34 /* SwiftDataView.swift in Sources */,
 				E463A0DD2CFF1DC500744481 /* CustomComponentBindingView.swift in Sources */,
 				E463A0D02CFF1DA500744481 /* ContentView.swift in Sources */,
 				E463A0DF2CFF1E9B00744481 /* MultilineTextInputView.swift in Sources */,
